@@ -1,3 +1,3 @@
-# Catalogo de SuperHeroes realizado con React + Vite
+# Superhero Catalog made with React + Vite
 
-Este proyecto ha sido realizado siguiendo un curso de aprendizaje de React + JS
+This project was made following a React + JS learning course.
